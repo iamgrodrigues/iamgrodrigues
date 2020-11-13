@@ -1,26 +1,35 @@
-<details>  
-  <summary><b> Some GitHub's Statistics Fun </b></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&theme=dracula&count_private=true&line_height=40"  align="left" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&theme=dracula" />
-</details>
-
-<p align="center">  
-  <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="35" width="35" />
+<div align='center'><h1> Hi there!!! I'm Guilherme Rodrigues</h1></div>
+<div align="center">
+  <a href="https://twitter.com/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>   
+  <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
   </a>  
-  <a href="https://twitter.com/iamgrodrigues" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamgrodrigues" height="35" width="35" />
-  </a>
-  <a href="https://linkedin.com/in/iamgrodrigues" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamgrodrigues" height="35" width="35" />
-  </a>
-  
-  <a href="https://www.instagram.com/iamgrodrigues" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamgrodrigues" height="35" width="35" />
-  </a>
-</p>
+</div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues)
+<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/dev.gif' align='left'>
+
+### Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/iamgrodrigues)
+- :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
+- 🔭 I’m currently looking for an opportunity to work as an **Back-end Developer**
+- 🌱 I’m currently learning **Java, Python, JavaScript**
+
+<br />
+<br />
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
