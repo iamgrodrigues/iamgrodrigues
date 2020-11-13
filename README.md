@@ -1,16 +1,20 @@
-<div align='left'><h1> Hi there!!! I'm Guilherme </h1>
+<div align='left'><h1> Hi there!!! I'm Guilherme
   <a href="https://twitter.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
+    <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>   
+  </a>
+		<a href="https://medium.com/@iamgrodrigues" target="_blank" rel="nofollow">
+		<img align="right" alt="Guilherme's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
   <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
-  </a>  
+  </a>
+	<a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</h1>
 </div>
 
 <img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/dev.gif' width="300px" align='left'>
