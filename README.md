@@ -14,13 +14,15 @@
   </a>  
 </div>
 
-<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/dev.gif' align='left'>
+<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/dev.gif' width="300px" align='left'>
 
-### Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/iamgrodrigues)
+### Glad to see you here 👋 ! [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/iamgrodrigues)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as an **Back-end Developer**
 - 🌱 I’m currently learning **Java, Python, JavaScript**
 
+<br />
+<br />
 <br />
 <br />
 
@@ -32,7 +34,7 @@
 </details>
 
 <details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+ <summary>🤖 <b>My programming stats</b></summary>
 <br>
   
 <!--START_SECTION:waka-->
