@@ -1,5 +1,4 @@
-<div align='right'><h1> Hi there!!! I'm Guilherme </h1></div>
-<div align="center">
+<div align='left'><h1> Hi there!!! I'm Guilherme </h1>
   <a href="https://twitter.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
