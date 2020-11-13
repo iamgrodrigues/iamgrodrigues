@@ -27,6 +27,50 @@
 <br>
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32192%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 27 Contributions in the Year 2020
+ > 
+> 📦 3.5 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 7 Public Repositories
+ > 
+> 🔑 2 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    3 commits      ██████████████████░░░░░░░   75.0% 
+🌆 Daytime    1 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   2 mins              ████████████████░░░░░░░░░   65.2% 
+Java                     1 min               ████████░░░░░░░░░░░░░░░░░   34.8%
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    3 mins              █████████████████████████   100.0%
+
+```
+
 
 <!--END_SECTION:waka-->
 
