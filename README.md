@@ -19,7 +19,9 @@
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as an **Back-end Developer**
-- 🌱 I’m currently learning <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+- 🌱 I’m currently learning <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 
 <br />
 <br />
