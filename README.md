@@ -1,4 +1,4 @@
-<div align='center'><h1> Hi there!!! I'm Guilherme Rodrigues</h1></div>
+<div align='right'><h1> Hi there!!! I'm Guilherme </h1></div>
 <div align="center">
   <a href="https://twitter.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,21 +19,14 @@
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as an **Back-end Developer**
-- 🌱 I’m currently learning <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+- 🌱 I’m currently learning <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
 
 <br />
 <br />
 <br />
 <br />
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
 <details> 
  <summary>🤖 <b>My programming stats</b></summary>
@@ -102,3 +95,11 @@ CSS                      1 repo              ████████░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
