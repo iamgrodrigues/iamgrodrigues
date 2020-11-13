@@ -21,3 +21,5 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamgrodrigues" height="35" width="35" />
   </a>
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues)
