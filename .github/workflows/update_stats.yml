@@ -25,5 +25,5 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False" 
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "false"
           SHOW_COMMIT: "True"
