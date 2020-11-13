@@ -16,7 +16,7 @@
 
 <img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/dev.gif' width="300px" align='left'>
 
-### Glad to see you here 👋 ! [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/iamgrodrigues)
+### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as an **Back-end Developer**
 - 🌱 I’m currently learning **Java, Python, JavaScript**
