@@ -1,10 +1,8 @@
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&theme=dracula">
-</p>
-
-<p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamgrodrigues&layout=compact&theme=dracula" />
-</p>
+<details>  
+  <summary><b> Some GitHub's Statistics Fun </b></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&theme=dracula&count_private=true&line_height=40"  align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&theme=dracula" />
+</details>
 
 <p align="center">  
   <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank">
@@ -23,3 +21,12 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues)
+
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
