@@ -100,7 +100,7 @@ CSS                      1 repo              ████████░░░�
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<div
+<div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
