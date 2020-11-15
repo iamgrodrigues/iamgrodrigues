@@ -36,7 +36,7 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32554%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32179%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -48,8 +48,8 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 2 Private Repositories 
-
+> 🔑 0 Private Repository 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -85,9 +85,8 @@ Linux                    3 mins              ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33% 
-CSS                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
+JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.0% 
+CSS                      1 repo              ████████████░░░░░░░░░░░░░   50.0%
 
 ```
 
