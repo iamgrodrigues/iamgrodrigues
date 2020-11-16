@@ -1,18 +1,18 @@
 <div align='left'><h1> Hi there!!! I'm Guilherme
   <a href="https://twitter.com/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="right" alt="Guilherme's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
     <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="right" alt="Guilherme's Insta" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 		<a href="https://medium.com/@iamgrodrigues" target="_blank" rel="nofollow">
-		<img align="right" alt="Guilherme's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+		<img align="right" alt="Guilherme's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
   <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+    <img align="right" alt="Guilherme's StackOverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
   </a>
 	<a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="right" alt="Guilherme's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </h1>
 </div>
@@ -22,9 +22,9 @@
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
-- 🌱 I’m currently learning <img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-	<img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-	<img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
+- 🌱 I’m currently learning <img width="40px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+	<img width="40px" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+	<img width="40px" style="padding:5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
 
 <br />
 <br />
