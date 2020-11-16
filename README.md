@@ -22,9 +22,9 @@
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
 - 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
-- 🌱 I’m currently learning <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
+- 🌱 I’m currently learning <img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+	<img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+	<img width="5%" style="padding:5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
 
 <br />
 <br />
