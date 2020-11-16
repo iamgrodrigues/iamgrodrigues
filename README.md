@@ -36,11 +36,13 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32557%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-307-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32179%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the Year 2020
+> 🏆 44 Contributions in the Year 2020
  > 
 > 📦 3.5 kB Used in Github's Storage 
  > 
@@ -57,6 +59,18 @@
 🌆 Daytime    1 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       1 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     3 commits      ██████████████████░░░░░░░   75.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -90,6 +104,10 @@ CSS                      1 repo              ███████████�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://github.com/iamgrodrigues/iamgrodrigues/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
