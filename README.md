@@ -17,7 +17,7 @@
 </h1>
 </div>
 
-<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/Assets/dev.gif' width="300px" align='left'>
+<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="300px" align='left'>
 
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
