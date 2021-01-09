@@ -28,7 +28,7 @@
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-	- 🌱 I’m currently learning <img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+- 🌱 I’m currently learning <img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
