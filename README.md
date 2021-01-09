@@ -17,9 +17,7 @@
 </h1>
 </div>
 
-<div align='left'>
-	<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="300px" align='left'>
-</div>
+<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="300px" align='left'>
 
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Third Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
@@ -35,7 +33,6 @@
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
 - 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
-
 
 <br />
 <br />
