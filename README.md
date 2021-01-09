@@ -20,11 +20,18 @@
 <img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/main/Assets/dev.gif' width="300px" align='left'>
 
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
-- :school: I'm currently a Second Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
-- 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
+- :school: I'm currently a Third Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
+- 🎓 Technologies that I had contact with on University	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+<img width="30px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
+<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 - 🌱 I’m currently learning <img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
 	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
+	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
+	<img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
+- 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
 
 <br />
 <br />
