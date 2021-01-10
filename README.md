@@ -131,8 +131,8 @@ Python                   1 repo              ███░░░░░░░░�
   <summary><b>⚡ Github Stats</b></summary>
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true$theme=gotham" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&&show_icons=true&layout=compact&langs_count=8$theme=gotham"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true&theme=gotham" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
 </div>
 </details>
 
