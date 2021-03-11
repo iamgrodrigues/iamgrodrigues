@@ -15,7 +15,7 @@
     <img align="right" alt="Guilherme's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://trailblazer.me/id/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Trailhead" width="30px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
+    <img align="right" alt="Guilherme's Trailhead" width="50px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
 </a>
 </h1>
 </div>
@@ -39,7 +39,7 @@
 	</a>
 - 🌱 I’m currently learning 
 	<a href="https://www.salesforce.com/company/about-us/" target="_blank" rel="nofollow">
-	   <img width="30px" style="padding:5px" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg"/>
+	   <img width="30px" style="padding:5px" src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg"/>
 	</a>
 	<a href="https://www.java.com/" target="_blank" rel="nofollow">
 	   <img width="30px" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
