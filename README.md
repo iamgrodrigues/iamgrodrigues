@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Insta" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://stackexchange.com/users/19602556/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's StackExchange" width="30px" src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" />
+<a href="https://salesforce.stackexchange.com/users/93793/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's StackExchange" width="30px" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon@2.png?v=2b5099539758" />
 </a>
 <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's StackOverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
@@ -59,7 +59,6 @@
 	<a href="https://www.postgresql.org/" target="_blank" rel="nofollow">
 	    <img width="30px" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 	</a>
-- 🔭 I’m currently looking for an opportunity to work as **Back-end Developer**
 
 <br />
 <br />
