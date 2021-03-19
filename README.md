@@ -6,7 +6,7 @@
     <img align="right" alt="Guilherme's Insta" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://salesforce.stackexchange.com/users/93793/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's StackExchange" width="30px" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon@2.png?v=2b5099539758" />
+    <img align="right" alt="Guilherme's StackExchange" width="50px" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon@2.png?v=2b5099539758" />
 </a>
 <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's StackOverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
