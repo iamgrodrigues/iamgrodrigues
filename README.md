@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's Insta" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://medium.com/@iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://stackexchange.com/users/19602556/iamgrodrigues" target="_blank" rel="nofollow">
+    <img align="right" alt="Guilherme's StackExchange" width="30px" src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
     <img align="right" alt="Guilherme's StackOverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
