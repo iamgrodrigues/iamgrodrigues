@@ -24,7 +24,7 @@
 
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 - :school: I'm currently a Third Semester Software Analysis and Development student at <a href="https://www.anhanguera.com/">@anhanguera </a>
-- 🎓 Technologies that I had contact with on University
+- 🎓 Technologies that I had contact with at University
 	<a href="https://www.python.org/" target="_blank" rel="nofollow">
 	   <img width="30px" style="padding:5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 	</a>
