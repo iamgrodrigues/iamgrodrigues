@@ -20,7 +20,9 @@
 </h1>
 </div>
 
-<img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="300px" align='left'>
+<div>
+    <img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="350" height="250" align='left'>
+</div>
 
 ### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
 <div>
