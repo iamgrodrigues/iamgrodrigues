@@ -34,8 +34,6 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C969%20hrs%2030%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.94%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -77,21 +75,16 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     34 mins             █████████████░░░░░░░░░░░░   53.78 % 
-XML                      27 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
-sh                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          ████████████████████████░   97.00 % 
-Zsh                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         54 mins             ██████████████████████░░░   86.24 % 
-sf-cps                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Terminal                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 02:34:21 UTC
+ Last Updated on 24/05/2026 02:45:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
