@@ -75,22 +75,22 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     7 hrs 45 mins       ███████████████░░░░░░░░░░   60.74 % 
-sh                       3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-XML                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Git                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Apex                     6 hrs 9 mins        ██████████████░░░░░░░░░░░   57.89 % 
+sh                       2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+XML                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Git                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       █████████████████░░░░░░░░   69.94 % 
-Zsh                      3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+VS Code                  7 hrs 18 mins       █████████████████░░░░░░░░   68.74 % 
+Zsh                      3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         9 hrs 9 mins        ██████████████████░░░░░░░   71.68 % 
-sf-cps                   3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+to-sf-sfdcmaster         7 hrs               ████████████████░░░░░░░░░   65.97 % 
+sf-cps                   3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
 
 💻 Operating System: 
-WSL                      12 hrs 46 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +106,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:09:00 UTC
+ Last Updated on 25/07/2026 02:08:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
