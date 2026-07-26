@@ -34,6 +34,8 @@
 <br>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C992%20hrs%2010%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.94%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,22 +77,22 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     6 hrs 9 mins        ██████████████░░░░░░░░░░░   57.89 % 
-sh                       2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-XML                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Git                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Apex                     4 hrs 39 mins       ████████████████░░░░░░░░░   64.98 % 
+sh                       1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+XML                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Git                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 18 mins       █████████████████░░░░░░░░   68.74 % 
-Zsh                      3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+VS Code                  5 hrs 46 mins       ████████████████████░░░░░   80.44 % 
+Zsh                      1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         7 hrs               ████████████████░░░░░░░░░   65.97 % 
-sf-cps                   3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+sf-cps                   3 hrs 37 mins       █████████████░░░░░░░░░░░░   50.44 % 
+to-sf-sfdcmaster         3 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.56 % 
 
 💻 Operating System: 
-WSL                      10 hrs 38 mins      █████████████████████████   100.00 % 
+WSL                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +108,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:08:20 UTC
+ Last Updated on 26/07/2026 02:13:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
