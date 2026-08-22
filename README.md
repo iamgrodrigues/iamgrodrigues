@@ -34,7 +34,7 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C991%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
@@ -79,22 +79,22 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.15 % 
-Apex                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.48 % 
-sh                       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Apex                     7 hrs 27 mins       ███████████████░░░░░░░░░░   61.82 % 
+XML                      2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+sh                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Git                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        ██████████████████████░░░   89.98 % 
-Zsh                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+VS Code                  11 hrs 15 mins      ███████████████████████░░   93.24 % 
+Zsh                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         2 hrs 40 mins       ███████████████████░░░░░░   76.30 % 
-sf-cps                   49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+to-sf-sfdcmaster         10 hrs 29 mins      ██████████████████████░░░   86.88 % 
+sf-cps                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 
 💻 Operating System: 
-WSL                      3 hrs 30 mins       █████████████████████████   100.00 % 
+WSL                      12 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 00:58:36 UTC
+ Last Updated on 22/08/2026 00:54:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
