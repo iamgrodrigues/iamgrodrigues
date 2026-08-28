@@ -34,7 +34,7 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C006%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C008%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
@@ -52,6 +52,57 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                235 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌆 Daytime                212 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                147 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Wednesday                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 165 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Saturday                 28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Sunday                   106 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Apex                     4 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.88 % 
+XML                      2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Git                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+sh                       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 59 mins       ███████████████████░░░░░░   76.38 % 
+Zsh                      2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+
+🐱‍💻 Projects: 
+to-sf-sfdcmaster         9 hrs 9 mins        █████████████████████████   99.98 % 
+sf-cps                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+WSL                      9 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -65,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 06:48:55 UTC
+ Last Updated on 28/08/2026 08:37:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
