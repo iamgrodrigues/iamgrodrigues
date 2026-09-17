@@ -34,7 +34,7 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C028%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C029%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
@@ -79,20 +79,22 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     1 hr 26 mins        ████████████████░░░░░░░░░   64.34 % 
-XML                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Git                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-sh                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Apex                     1 hr 28 mins        █████████████░░░░░░░░░░░░   50.43 % 
+XML                      41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Git                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+sh                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        ████████████████████░░░░░   80.58 % 
-Zsh                      25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+VS Code                  2 hrs 24 mins       █████████████████████░░░░   82.11 % 
+Zsh                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         2 hrs 13 mins       █████████████████████████   100.00 % 
+to-sf-sfdcmaster         2 hrs 29 mins       █████████████████████░░░░   84.78 % 
+sf-cps                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 
 💻 Operating System: 
-WSL                      2 hrs 13 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 02:56:20 UTC
+ Last Updated on 17/09/2026 02:59:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
