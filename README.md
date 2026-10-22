@@ -79,44 +79,46 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     3 hrs 18 mins       ██████████████░░░░░░░░░░░   54.72 % 
-sh                       48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-XML                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Git                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+XML                      2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Apex                     2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Git                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+sh                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████░░░░░░░░   67.03 % 
-Zsh                      1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Copilot CLI              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+VS Code                  3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
+Zsh                      2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Copilot CLI              1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         5 hrs 59 mins       █████████████████████████   98.82 % 
-sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+to-sf-sfdcmaster         7 hrs 20 mins       █████████████████████████   99.04 % 
+sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-WSL                      6 hrs 3 mins        █████████████████████████   100.00 % 
+WSL                      7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (8.02%)
+⏱ AI Coding Time: 2 hrs 37 mins (35.43%)
 
-✍️ 0 lines written by AI, 215 lines written by hand (0.0% AI-written)
+✍️ 62 lines written by AI, 107 lines written by hand (36.69% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
+
+GPT                      62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 36.69% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 74.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -132,7 +134,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 02:57:53 UTC
+ Last Updated on 22/10/2026 02:56:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
