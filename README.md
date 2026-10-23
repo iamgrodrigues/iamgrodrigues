@@ -34,9 +34,9 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C080%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C084%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.94%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,46 +79,46 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Apex                     2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Git                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-sh                       36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Apex                     2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+XML                      2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Git                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+sh                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
-Zsh                      2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Copilot CLI              1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Copilot CLI              4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
+VS Code                  3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Zsh                      2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         7 hrs 20 mins       █████████████████████████   99.04 % 
-sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+to-sf-sfdcmaster         9 hrs 51 mins       █████████████████████████   99.28 % 
+sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-WSL                      7 hrs 24 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 37 mins (35.43%)
+⏱ AI Coding Time: 5 hrs 10 mins (52.04%)
 
-✍️ 62 lines written by AI, 107 lines written by hand (36.69% AI-written)
+✍️ 1,986 lines written by AI, 84 lines written by hand (95.94% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 79,182 Input Tokens, 9,007 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 22 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-GPT                      62 lines            █████████████████████████   100.00 % 
+GPT                      2,757 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.69% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
+🤖 AI-Driven — 95.94% of written lines came from AI
+📝 Concise Prompter — average 309 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 74.38% of changed lines were hand-edited
+🚀 High AI Trust — 5.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -134,7 +134,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:56:53 UTC
+ Last Updated on 23/10/2026 03:00:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
