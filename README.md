@@ -34,9 +34,9 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C084%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C088%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.94%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,46 +79,46 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-XML                      2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Git                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-sh                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+XML                      3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Apex                     3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Git                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔥 Editors: 
-Copilot CLI              4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
-VS Code                  3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Zsh                      2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Copilot CLI              5 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.54 % 
+VS Code                  3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Zsh                      2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         9 hrs 51 mins       █████████████████████████   99.28 % 
-sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+to-sf-sfdcmaster         10 hrs 47 mins      █████████████████████████   99.34 % 
+sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-WSL                      9 hrs 55 mins       █████████████████████████   100.00 % 
+WSL                      10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 10 mins (52.04%)
+⏱ AI Coding Time: 6 hrs 16 mins (57.76%)
 
-✍️ 1,986 lines written by AI, 84 lines written by hand (95.94% AI-written)
+✍️ 1,986 lines written by AI, 42 lines written by hand (97.93% AI-written)
 
 🔤 79,182 Input Tokens, 9,007 Output Tokens
 
 💵 $0.02 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 9 AI Sessions, 47 AI Prompts
 
-GPT                      2,757 lines         █████████████████████████   100.00 % 
+GPT                      2,760 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.94% of written lines came from AI
-📝 Concise Prompter — average 309 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.23% of changed lines were hand-edited
+🤖 AI-Driven — 97.93% of written lines came from AI
+📝 Concise Prompter — average 275 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -134,7 +134,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 03:00:30 UTC
+ Last Updated on 24/10/2026 02:57:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
