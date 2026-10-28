@@ -34,9 +34,9 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C092%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C093%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.94%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,46 +79,44 @@ Sunday                   106 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.43 % 
-XML                      2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Git                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Apex                     5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.96 % 
+XML                      2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Git                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Copilot CLI              6 hrs 32 mins       █████████████░░░░░░░░░░░░   50.95 % 
-VS Code                  3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
-Zsh                      2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Copilot CLI              6 hrs 45 mins       █████████████░░░░░░░░░░░░   51.98 % 
+VS Code                  4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Zsh                      1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         12 hrs 45 mins      █████████████████████████   99.44 % 
-sf-cps                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Terminal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+to-sf-sfdcmaster         13 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      12 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (63.54%)
+⏱ AI Coding Time: 8 hrs 54 mins (68.49%)
 
-✍️ 2,218 lines written by AI, 28 lines written by hand (98.75% AI-written)
+✍️ 2,218 lines written by AI, 23 lines written by hand (98.97% AI-written)
 
 🔤 1,220,785 Input Tokens, 162,732 Output Tokens
 
 💵 $5.88 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 59 AI Prompts
+🧠 10 AI Sessions, 62 AI Prompts
 
-GPT                      3,226 lines         █████████████████████████   100.00 % 
+GPT                      3,252 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.53% of changed lines were hand-edited
+🤖 AI-Driven — 98.97% of written lines came from AI
+📝 Concise Prompter — average 320 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -134,7 +132,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:21:56 UTC
+ Last Updated on 28/10/2026 03:38:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
