@@ -141,7 +141,8 @@ Python                   1 repo              ███████████�
 <!-- Cards are refreshed by .github/workflows/profile_stats.yml. GH_TOKEN must belong to
 the profile owner and have read access to the private repositories to include.
 Enable "Include private contributions on my profile" in GitHub's contribution settings.
-The first successful workflow run publishes the images to profile-stats, then updates
-only the two card links in this README to use the Gotham theme.
+The first successful workflow run publishes the light and dark images to profile-stats,
+then wraps only these two cards in theme-aware picture elements: GitHub for light mode
+and Gotham for dark mode. Until then, the existing Gotham images stay in use.
 Stars and "Contributed to" remain public-only. -->
 </details>
