@@ -135,8 +135,16 @@ Python                   1 repo              ███████████�
 <details>	
    <summary><b>⚡ GitHub Stats</b></summary>
 <div>
-<img height="180" alt="GitHub stats" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/gotham/3-stats.svg" />
-<img height="180" alt="Most used languages by commits" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/gotham/2-most-commit-language.svg" />
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/gotham/3-stats.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github/3-stats.svg" />
+	<img height="180" alt="GitHub stats" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github/3-stats.svg" />
+</picture>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/gotham/2-most-commit-language.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github/2-most-commit-language.svg" />
+	<img height="180" alt="Most used languages by commits" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github/2-most-commit-language.svg" />
+</picture>
 </div>
 <!-- Cards are refreshed by .github/workflows/profile_stats.yml. GH_TOKEN must belong to
 the profile owner and have read access to the private repositories to include.
