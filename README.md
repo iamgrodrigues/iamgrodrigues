@@ -1,14 +1,29 @@
 # Hi, I'm Guilherme Rodrigues
 
-<img align="right" width="220" alt="A relaxed developer at a computer" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/master/Assets/dev.gif" />
+<p align="right">
+<a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
+<img alt="Guilherme's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="https://trailblazer.me/id/iamgrodrigues" target="_blank" rel="nofollow">
+<img alt="Guilherme's Trailblazer profile" width="50px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
+</a>
+<a href="https://salesforce.stackexchange.com/users/93793/iamgrodrigues" target="_blank" rel="nofollow">
+<img alt="Guilherme's Salesforce Stack Exchange" width="40px" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon@2.png?v=2b5099539758" />
+</a>
+<a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
+<img alt="Guilherme's Stack Overflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
+</a>
+<a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
+<img alt="Guilherme's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+</p>
 
-**Salesforce Developer at WEX | São Paulo, Brazil**
-
-I enjoy partnering with business teams to understand the need behind a request, then shaping it into practical, maintainable Salesforce solutions. I keep learning through Trailhead and sharing what I discover along the way.
-
-[LinkedIn](https://www.linkedin.com/in/iamgrodrigues) | [Trailblazer](https://trailblazer.me/id/iamgrodrigues) | [Salesforce Stack Exchange](https://salesforce.stackexchange.com/users/93793/iamgrodrigues) | [Stack Overflow](https://stackoverflow.com/users/14347023/iamgrodrigues) | [Instagram](https://www.instagram.com/iamgrodrigues)
-
-<br clear="right" />
+<div>
+<img align="left" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/master/Assets/dev.gif" width="350" alt="A relaxed developer at a computer" />
+<p><strong>Salesforce Developer at WEX | São Paulo, Brazil</strong></p>
+<p>I enjoy partnering with business teams to understand the need behind a request, then shaping it into practical, maintainable Salesforce solutions. I keep learning through Trailhead and sharing what I discover along the way.</p>
+</div>
+<br clear="left" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/output/github-contribution-grid-snake-dark.svg">
@@ -121,7 +136,7 @@ GPT                      5,503 lines         ███████████�
 
 </details>
 <details>	
-   <summary><b>⚡ Github Stats</b></summary>
+   <summary><b>⚡ GitHub Stats</b></summary>
 <div>
 <img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgrodrigues&theme=github_dark" />
 <img height="180" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamgrodrigues&theme=github_dark" />
