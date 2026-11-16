@@ -28,15 +28,15 @@ jobs:
           PROFILE_OWNER: ${{ github.repository_owner }}
         shell: bash
         run: |
-          	if [ -z "$GH_TOKEN" ]; then
-          		echo "::error::GH_TOKEN is missing. Add a token with read access to the private repositories to include."
-          		exit 1
-          	fi
-          	profile=$(gh api graphql -f query='query { viewer { login repositories(first: 1, privacy: PRIVATE, ownerAffiliations: OWNER) { totalCount } } }')
-          	if ! jq -e --arg owner "$PROFILE_OWNER" '.data.viewer | (.login | ascii_downcase) == ($owner | ascii_downcase) and .repositories.totalCount > 0' <<< "$profile" > /dev/null; then
-          		echo "::error::GH_TOKEN must belong to the profile owner and be able to read private repositories."
-          		exit 1
-          	fi
+          if [ -z "$GH_TOKEN" ]; then
+          	echo "::error::GH_TOKEN is missing. Add a token with read access to the private repositories to include."
+          	exit 1
+          fi
+          profile=$(gh api graphql -f query='query { viewer { login repositories(first: 1, privacy: PRIVATE, ownerAffiliations: OWNER) { totalCount } } }')
+          if ! jq -e --arg owner "$PROFILE_OWNER" '.data.viewer | (.login | ascii_downcase) == ($owner | ascii_downcase) and .repositories.totalCount > 0' <<< "$profile" > /dev/null; then
+          	echo "::error::GH_TOKEN must belong to the profile owner and be able to read private repositories."
+          	exit 1
+          fi
 
       - name: Generate cards including accessible private activity
         uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1
@@ -51,14 +51,14 @@ jobs:
       - name: Require and stage the two profile cards
         shell: bash
         run: |
-          	for card in 3-stats.svg 2-most-commit-language.svg; do
-          		source="profile-summary-card-output/github_dark/$card"
-          		if [ ! -s "$source" ]; then
-          			echo "::error::The required card $card was not generated. Check the generation errors above."
-          			exit 1
-          		fi
-          		install -D "$source" "profile-stats/github_dark/$card"
-          	done
+          for card in 3-stats.svg 2-most-commit-language.svg; do
+          	source="profile-summary-card-output/github_dark/$card"
+          	if [ ! -s "$source" ]; then
+          		echo "::error::The required card $card was not generated. Check the generation errors above."
+          		exit 1
+          	fi
+          	install -D "$source" "profile-stats/github_dark/$card"
+          done
 
       - name: Publish the two profile cards
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
