@@ -44,20 +44,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: github_dark
+          # Keep the current cards available until the README switches to Gotham.
+          THEME: ''
           TIME_ZONE: America/Sao_Paulo
           AUTO_PUSH: false
 
-      - name: Require and stage the two profile cards
+      - name: Require and stage the current and Gotham profile cards
         shell: bash
         run: |
-          for card in 3-stats.svg 2-most-commit-language.svg; do
-          	source="profile-summary-card-output/github_dark/$card"
-          	if [ ! -s "$source" ]; then
-          		echo "::error::The required card $card was not generated. Check the generation errors above."
-          		exit 1
-          	fi
-          	install -D "$source" "profile-stats/github_dark/$card"
+          for theme in github_dark gotham; do
+          	for card in 3-stats.svg 2-most-commit-language.svg; do
+          		source="profile-summary-card-output/$theme/$card"
+          		if [ ! -s "$source" ]; then
+          			echo "::error::The required $theme card $card was not generated. Check the generation errors above."
+          			exit 1
+          		fi
+          		install -D "$source" "profile-stats/$theme/$card"
+          	done
           done
 
       - name: Publish the two profile cards
@@ -94,14 +97,16 @@ jobs:
           	("stats", "3-stats.svg"),
           	("most-commit-language", "2-most-commit-language.svg")
           ]:
-          	old = f"https://github-profile-summary-cards.vercel.app/api/cards/{card}?username={owner}&theme=github_dark"
-          	new = f"https://raw.githubusercontent.com/{repository}/profile-stats/github_dark/{filename}"
-          	if old not in updated and new not in updated:
+          	base = f"https://raw.githubusercontent.com/{repository}/profile-stats"
+          	dark = f"{base}/github_dark/{filename}"
+          	gotham = f"{base}/gotham/{filename}"
+          	legacy = f"https://github-profile-summary-cards.vercel.app/api/cards/{card}?username={owner}&theme=github_dark"
+          	if not any(source in updated for source in [gotham, dark, legacy]):
           		raise RuntimeError(f"Expected {card} card link is missing from README.md.")
-          	updated = updated.replace(old, new)
+          	updated = updated.replace(dark, gotham).replace(legacy, gotham)
           if updated != content:
           	payload = {
-          		"message": "chore: activate private-inclusive GitHub stats",
+          		"message": "chore: use Gotham for GitHub stats",
           		"branch": "master",
           		"sha": readme["sha"],
           		"content": base64.b64encode(updated.encode("utf-8")).decode("ascii")

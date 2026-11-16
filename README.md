@@ -138,5 +138,6 @@ GPT                      5,503 lines         ███████████�
 the profile owner and have read access to the private repositories to include.
 Enable "Include private contributions on my profile" in GitHub's contribution settings.
 The first successful workflow run publishes the images to profile-stats, then updates
-only the two card links in this README. Stars and "Contributed to" remain public-only. -->
+only the two card links in this README to use the Gotham theme.
+Stars and "Contributed to" remain public-only. -->
 </details>
