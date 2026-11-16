@@ -1,0 +1,116 @@
+name: GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: '15 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/profile_stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Verify profile token and private repository access
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        shell: bash
+        run: |
+          	if [ -z "$GH_TOKEN" ]; then
+          		echo "::error::GH_TOKEN is missing. Add a token with read access to the private repositories to include."
+          		exit 1
+          	fi
+          	profile=$(gh api graphql -f query='query { viewer { login repositories(first: 1, privacy: PRIVATE, ownerAffiliations: OWNER) { totalCount } } }')
+          	if ! jq -e --arg owner "$PROFILE_OWNER" '.data.viewer | (.login | ascii_downcase) == ($owner | ascii_downcase) and .repositories.totalCount > 0' <<< "$profile" > /dev/null; then
+          		echo "::error::GH_TOKEN must belong to the profile owner and be able to read private repositories."
+          		exit 1
+          	fi
+
+      - name: Generate cards including accessible private activity
+        uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          TIME_ZONE: America/Sao_Paulo
+          AUTO_PUSH: false
+
+      - name: Require and stage the two profile cards
+        shell: bash
+        run: |
+          	for card in 3-stats.svg 2-most-commit-language.svg; do
+          		source="profile-summary-card-output/github_dark/$card"
+          		if [ ! -s "$source" ]; then
+          			echo "::error::The required card $card was not generated. Check the generation errors above."
+          			exit 1
+          		fi
+          		install -D "$source" "profile-stats/github_dark/$card"
+          	done
+
+      - name: Publish the two profile cards
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
+        with:
+          target_branch: profile-stats
+          build_dir: profile-stats
+          commit_message: 'chore: refresh GitHub profile stats'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Activate the published cards in the profile README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import base64
+          import json
+          import os
+          import subprocess
+
+          repository = os.environ["GITHUB_REPOSITORY"]
+          owner = repository.split("/")[0]
+          endpoint = f"repos/{repository}/contents/README.md"
+          response = subprocess.run(
+          	["gh", "api", f"{endpoint}?ref=master"],
+          	check=True, stdout=subprocess.PIPE, text=True
+          )
+          readme = json.loads(response.stdout)
+          content = base64.b64decode(readme["content"]).decode("utf-8")
+          updated = content
+          for card, filename in [
+          	("stats", "3-stats.svg"),
+          	("most-commit-language", "2-most-commit-language.svg")
+          ]:
+          	old = f"https://github-profile-summary-cards.vercel.app/api/cards/{card}?username={owner}&theme=github_dark"
+          	new = f"https://raw.githubusercontent.com/{repository}/profile-stats/github_dark/{filename}"
+          	if old not in updated and new not in updated:
+          		raise RuntimeError(f"Expected {card} card link is missing from README.md.")
+          	updated = updated.replace(old, new)
+          if updated != content:
+          	payload = {
+          		"message": "chore: activate private-inclusive GitHub stats",
+          		"branch": "master",
+          		"sha": readme["sha"],
+          		"content": base64.b64encode(updated.encode("utf-8")).decode("ascii")
+          	}
+          	subprocess.run(
+          		["gh", "api", "--method", "PUT", endpoint, "--input", "-", "--silent"],
+          		input=json.dumps(payload), text=True, check=True
+          	)
+          	print("Activated the published cards in README.md.")
+          else:
+          	print("README.md already uses the published cards.")
+          PY

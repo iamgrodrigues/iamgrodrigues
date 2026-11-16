@@ -12,7 +12,8 @@
 
 <p><strong>Salesforce Developer at WEX | São Paulo, Brazil</strong></p>
 <p>I enjoy partnering with business teams to understand the need behind a request, then shaping it into practical Salesforce solutions.</p>
-<p>For me, good delivery starts with asking the right questions. I care about clear requirements, thoughtful design, and maintainable code, applying best practices without making simple things complicated.</p>
+<p>Good delivery starts with asking the right questions. Clear requirements, thoughtful design, and maintainable code guide my work, without making simple things complicated.</p>
+<p>AI is part of that approach, from Agentforce solutions that help business teams work smarter to a pair-programming partner in my development workflow. Exploring alternatives, challenging assumptions, and reviewing solutions with AI helps me deliver better work, while I stay responsible for the decisions and results.</p>
 <p>Always curious, I keep learning through Trailhead and the Salesforce community, exploring ideas and sharing what I discover along the way.</p>
 </div>
 <br clear="left" />
@@ -133,4 +134,9 @@ GPT                      5,503 lines         ███████████�
 <img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgrodrigues&theme=github_dark" />
 <img height="180" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamgrodrigues&theme=github_dark" />
 </div>
+<!-- Cards are refreshed by .github/workflows/profile_stats.yml. GH_TOKEN must belong to
+the profile owner and have read access to the private repositories to include.
+Enable "Include private contributions on my profile" in GitHub's contribution settings.
+The first successful workflow run publishes the images to profile-stats, then updates
+only the two card links in this README. Stars and "Contributed to" remain public-only. -->
 </details>
