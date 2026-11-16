@@ -131,8 +131,8 @@ GPT                      5,503 lines         ███████████�
 <details>	
    <summary><b>⚡ GitHub Stats</b></summary>
 <div>
-<img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgrodrigues&theme=github_dark" />
-<img height="180" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamgrodrigues&theme=github_dark" />
+<img height="180" alt="GitHub stats" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github_dark/3-stats.svg" />
+<img height="180" alt="Most used languages by commits" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/profile-stats/github_dark/2-most-commit-language.svg" />
 </div>
 <!-- Cards are refreshed by .github/workflows/profile_stats.yml. GH_TOKEN must belong to
 the profile owner and have read access to the private repositories to include.
