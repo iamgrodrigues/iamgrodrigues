@@ -1,27 +1,14 @@
-<div align='left'><h1> Hi there!!! I'm Guilherme
-<a href="https://www.instagram.com/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Insta" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-<a href="https://salesforce.stackexchange.com/users/93793/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's StackExchange" width="40px" src="https://cdn.sstatic.net/Sites/salesforce/Img/apple-touch-icon@2.png?v=2b5099539758" />
-</a>
-<a href="https://stackoverflow.com/users/14347023/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's StackOverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-<a href="https://trailblazer.me/id/iamgrodrigues" target="_blank" rel="nofollow">
-    <img align="right" alt="Guilherme's Trailhead" width="50px" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" />
-</a>
-</h1>
-</div>
+# Hi, I'm Guilherme Rodrigues
 
-<div>
-    <img src='https://github.com/iamgrodrigues/iamgrodrigues/blob/master/Assets/dev.gif' width="350" height="250" align='left'>
-</div>
+<img align="right" width="220" alt="A relaxed developer at a computer" src="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/master/Assets/dev.gif" />
 
-### Glad to see you here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iamgrodrigues.iamgrodrigues&style=flat-square&color=0088cc)
+**Salesforce Developer at WEX | São Paulo, Brazil**
+
+I enjoy partnering with business teams to understand the need behind a request, then shaping it into practical, maintainable Salesforce solutions. I keep learning through Trailhead and sharing what I discover along the way.
+
+[LinkedIn](https://www.linkedin.com/in/iamgrodrigues) | [Trailblazer](https://trailblazer.me/id/iamgrodrigues) | [Salesforce Stack Exchange](https://salesforce.stackexchange.com/users/93793/iamgrodrigues) | [Stack Overflow](https://stackoverflow.com/users/14347023/iamgrodrigues) | [Instagram](https://www.instagram.com/iamgrodrigues)
+
+<br clear="right" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamgrodrigues/iamgrodrigues/output/github-contribution-grid-snake-dark.svg">
@@ -136,7 +123,7 @@ GPT                      5,503 lines         ███████████�
 <details>	
    <summary><b>⚡ Github Stats</b></summary>
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamgrodrigues&show_icons=true&hide_border=true&theme=gotham" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgrodrigues&&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+<img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamgrodrigues&theme=github_dark" />
+<img height="180" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamgrodrigues&theme=github_dark" />
 </div>
 </details>
