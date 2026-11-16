@@ -44,15 +44,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Keep the current cards available until the README switches to Gotham.
+          # Generate all themes to keep existing cards available during activation.
           THEME: ''
           TIME_ZONE: America/Sao_Paulo
           AUTO_PUSH: false
 
-      - name: Require and stage the current and Gotham profile cards
+      - name: Require and stage light, dark, and compatibility profile cards
         shell: bash
         run: |
-          for theme in github_dark gotham; do
+          for theme in github github_dark gotham; do
           	for card in 3-stats.svg 2-most-commit-language.svg; do
           		source="profile-summary-card-output/$theme/$card"
           		if [ ! -s "$source" ]; then
@@ -63,7 +63,7 @@ jobs:
           	done
           done
 
-      - name: Publish the two profile cards
+      - name: Publish light and dark profile cards
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
           target_branch: profile-stats
@@ -72,7 +72,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Activate the published cards in the profile README
+      - name: Activate theme-aware cards after publishing the images
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
@@ -92,21 +92,37 @@ jobs:
           )
           readme = json.loads(response.stdout)
           content = base64.b64decode(readme["content"]).decode("utf-8")
+          newline = "\r\n" if "\r\n" in content else "\n"
           updated = content
-          for card, filename in [
-          	("stats", "3-stats.svg"),
-          	("most-commit-language", "2-most-commit-language.svg")
+          for card, filename, alt in [
+          	("stats", "3-stats.svg", "GitHub stats"),
+          	("most-commit-language", "2-most-commit-language.svg", "Most used languages by commits")
           ]:
           	base = f"https://raw.githubusercontent.com/{repository}/profile-stats"
+          	light = f"{base}/github/{filename}"
           	dark = f"{base}/github_dark/{filename}"
           	gotham = f"{base}/gotham/{filename}"
           	legacy = f"https://github-profile-summary-cards.vercel.app/api/cards/{card}?username={owner}&theme=github_dark"
-          	if not any(source in updated for source in [gotham, dark, legacy]):
-          		raise RuntimeError(f"Expected {card} card link is missing from README.md.")
-          	updated = updated.replace(dark, gotham).replace(legacy, gotham)
+          	picture = newline.join([
+          		"<picture>",
+          		f'\t<source media="(prefers-color-scheme: dark)" srcset="{gotham}" />',
+          		f'\t<source media="(prefers-color-scheme: light)" srcset="{light}" />',
+          		f'\t<img height="180" alt="{alt}" src="{light}" />',
+          		"</picture>"
+          	])
+          	if picture in updated:
+          		continue
+          	images = [
+          		f'<img height="180" alt="{alt}" src="{source}" />'
+          		for source in [gotham, dark, legacy]
+          	]
+          	matches = [image for image in images if image in updated]
+          	if len(matches) != 1 or updated.count(matches[0]) != 1:
+          		raise RuntimeError(f"Expected exactly one standalone {card} card in README.md; check its markup.")
+          	updated = updated.replace(matches[0], picture, 1)
           if updated != content:
           	payload = {
-          		"message": "chore: use Gotham for GitHub stats",
+          		"message": "chore: adapt GitHub stats to light and dark modes",
           		"branch": "master",
           		"sha": readme["sha"],
           		"content": base64.b64encode(updated.encode("utf-8")).decode("ascii")
@@ -115,7 +131,7 @@ jobs:
           		["gh", "api", "--method", "PUT", endpoint, "--input", "-", "--silent"],
           		input=json.dumps(payload), text=True, check=True
           	)
-          	print("Activated the published cards in README.md.")
+          	print("Activated light and dark profile cards in README.md.")
           else:
-          	print("README.md already uses the published cards.")
+          	print("README.md already uses the published light and dark cards.")
           PY
