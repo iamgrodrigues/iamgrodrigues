@@ -26,6 +26,8 @@ jobs:
           BAR_RADIUS: "4"
           BAR_COLOR: "#2AA889"
           BAR_TRACK_COLOR: "#0C1014"
+          TEXT_PRIMARY_COLOR: "#99D1CE"
+          TEXT_SECONDARY_COLOR: "#599CAB"
           SHOW_LINES_OF_CODE: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LOC_CHART: "False"
