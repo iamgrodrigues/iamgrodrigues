@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BAR_STYLE: "svg"
-          BAR_RADIUS: "4"
+          BAR_RADIUS: "0"
           BAR_COLOR: "#2AA889"
           BAR_TRACK_COLOR: "#0C1014"
           TEXT_PRIMARY_COLOR: "#99D1CE"
