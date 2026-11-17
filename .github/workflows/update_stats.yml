@@ -6,6 +6,13 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -24,3 +31,24 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           IGNORED_REPOS: "to-sf-sfdcmaster"
+
+      - name: Check out the generated README
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: master
+
+      - name: Save SVG charts as GitHub-compatible images
+        run: python3 .github/scripts/render_waka_svgs.py
+
+      - name: Publish chart images and README links together
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- README.md Assets/waka
+          if git diff --cached --quiet; then
+          	echo "Chart images and README links are already up to date."
+          else
+          	git commit -m "fix: publish WakaTime SVG charts as images"
+          	git push origin HEAD:master
+          fi
