@@ -29,17 +29,17 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C200%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C215%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.43%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.1 kB Used in GitHub's Storage 
+> 📦 3.2 kB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2026
+> 🏆 316 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,21 +50,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                208 commits         █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌆 Daytime                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-🌃 Evening                105 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-🌙 Night                  144 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌞 Morning                219 commits         █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌆 Daytime                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+🌃 Evening                124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌙 Night                  160 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   107 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Monday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Tuesday                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Wednesday                91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Friday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Sunday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 ```
 
 
@@ -74,50 +74,51 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 20 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Apex                     14 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Python                   6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-XML                      5 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Bash                     5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 22 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Apex                     15 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Python                   8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Bash                     7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+XML                      6 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 Editors: 
-Copilot CLI              32 hrs 8 mins       █████████████░░░░░░░░░░░░   52.17 % 
-Copilot                  19 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.63 % 
-VS Code                  8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Zsh                      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Copilot CLI              34 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.64 % 
+Copilot                  24 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   35.75 % 
+VS Code                  8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Zsh                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         45 hrs 6 mins       ██████████████████░░░░░░░   73.21 % 
-ai-toolkit               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-iamgrodrigues            3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-salesforce-lab           3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-github-activity-mirror   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+to-sf-sfdcmaster         50 hrs 16 mins      ██████████████████░░░░░░░   72.79 % 
+ai-toolkit               5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+iamgrodrigues            4 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+salesforce-lab           3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+github-activity-mirror   2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-WSL                      61 hrs 36 mins      █████████████████████████   100.00 % 
+WSL                      69 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 55 mins (95.65%)
+⏱ AI Coding Time: 67 hrs 4 mins (97.11%)
 
-✍️ 9,038 lines written by AI, 15 lines written by hand (99.83% AI-written)
+✍️ 9,621 lines written by AI, 14 lines written by hand (99.85% AI-written)
 
-🔤 65,501,134 Input Tokens, 5,855,699 Output Tokens
+🔤 88,814,035 Input Tokens, 8,392,335 Output Tokens
 
-💵 $542.68 Estimated AI Cost This Week
+💵 $807.40 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 903 AI Prompts
+🧠 65 AI Sessions, 1045 AI Prompts
 
-GPT                      10,989 lines        █████████████████████████   99.95 % 
-Github-Copilot-Cli       5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      11,637 lines        ████████████████████████░   97.56 % 
+Opus                     286 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Github-Copilot-Cli       5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 393 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 525 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.71% of changed lines were hand-edited
+🚀 High AI Trust — 0.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +131,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 19/11/2026 05:34:01 UTC
+ Last Updated on 20/11/2026 05:22:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
