@@ -29,9 +29,9 @@
 <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C250%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C262%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.04%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -74,53 +74,52 @@ Sunday                   137 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 40 hrs 28 mins      ██████████████░░░░░░░░░░░   54.42 % 
-Apex                     8 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-XML                      6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Bash                     5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-JSON                     3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 36 hrs 38 mins      █████████████░░░░░░░░░░░░   51.62 % 
+Apex                     9 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Bash                     8 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+XML                      6 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Python                   3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Copilot CLI              33 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-Copilot                  32 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.98 % 
-VS Code                  8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Zsh                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Copilot CLI              31 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.25 % 
+Copilot                  28 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.71 % 
+VS Code                  11 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Zsh                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-to-sf-sfdcmaster         28 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.11 % 
-ai-toolkit               26 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.24 % 
-salesforce-lab           7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-sf-cps                   6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-contexts                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+ai-toolkit               23 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.50 % 
+to-sf-sfdcmaster         22 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.65 % 
+sf-cps                   10 hrs              ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+salesforce-lab           7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+work-reflections         3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-WSL                      74 hrs 21 mins      █████████████████████████   100.00 % 
+WSL                      70 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 73 hrs 54 mins (99.39%)
+⏱ AI Coding Time: 69 hrs 24 mins (97.78%)
 
-✍️ 4,059 lines written by AI, 6 lines written by hand (99.85% AI-written)
+✍️ 3,996 lines written by AI, 3,873 lines written by hand (50.78% AI-written)
 
-🔤 188,055,386 Input Tokens, 16,201,095 Output Tokens
+🔤 171,209,190 Input Tokens, 14,518,603 Output Tokens
 
-💵 $3806.75 Estimated AI Cost This Week
+💵 $3947.48 Estimated AI Cost This Week
 
-🧠 142 AI Sessions, 1487 AI Prompts
+🧠 132 AI Sessions, 1447 AI Prompts
 
-GPT                      5,151 lines         ███████████████████████░░   92.30 % 
-Opus                     286 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Code                     139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Github-Copilot-Cli       5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GPT                      4,832 lines         ███████████████████████░░   91.92 % 
+Opus                     286 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Code                     139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📄 Detailed Prompter — average 655 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.78% of written lines came from AI
+📄 Detailed Prompter — average 678 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 56.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +132,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 24/11/2026 07:59:17 UTC
+ Last Updated on 25/11/2026 06:36:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
